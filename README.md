@@ -1,4 +1,4 @@
-# Bio-inspired-Algorithms-and_techniques-of-evolutive-computation
+# Bio-inspired-Algorithms-and-Techniques-of-Evolutive-Computation
 ## Final Project for the masters course
 This project consisted in studying which is the best configuration for the reproduction of a fish population. Out of 215 fishes, it is required to form 3 groups of 30 fishes each one that will reproduce. The goal is the in each of the three groups of fishes, the relatedness among them (given by the file relatedness.csv) is the minimun possible. More precisely the objective is to minimize the highest relatedness inside the group, and as a second criteria will be to reduce the average relatedness in the group.
 ## Files
